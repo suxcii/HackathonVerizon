@@ -1,0 +1,16 @@
+{
+  "account_number": "VZ-8821-4432",
+  "customer_name": "John Smith",
+  "billing_period": "March 1 – March 31, 2026",
+  "previous_balance": 0.00,
+  "new_charges": {
+    "monthly_plan": 80.00,
+    "activation_fee": 35.00,
+    "data_overage_gb": 2.5,
+    "data_overage_charge": 15.00,
+    "taxes_and_fees": 12.47
+  },
+  "total_due": 142.47,
+  "due_date": "April 15, 2026",
+  "notes": "First bill includes one-time activation fee. Data overage of 2.5GB at $6/GB applied."
+}
